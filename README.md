@@ -23,6 +23,9 @@ right now it is in minimalistic version
 ```bash
 git clone https://github.com/lukas5555510/AI_FAQ_API.git
 ```
+```
+cd AI_FAQ_API
+```
 add .env following example:
 ```
 OPENAI_API_KEY=your_openai_api_key
@@ -31,9 +34,6 @@ POSTGRES_PASSWORD=postgres
 POSTGRES_HOST=db
 POSTGRES_PORT=5432
 POSTGRES_DB=ai_faq_db
-```
-```bash
-docker-compose build
 ```
 ```bash
 docker-compose up
