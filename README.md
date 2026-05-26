@@ -18,7 +18,7 @@ right now it is in minimalistic version
 - adding description of methods
 - adding ResponseModels
 
-##instalation
+## instalation
 
 ```bash
 git clone https://github.com/lukas5555510/AI_FAQ_API.git
