@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# JetBrains IDE
+.idea/
+
+# Other common ignores (optional but recommended)
+__pycache__/
+*.pyc
+*.pyo
+.git
+node_modules
+.env
