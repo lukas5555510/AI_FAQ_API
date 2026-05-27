@@ -4,7 +4,7 @@ Miniproject that uses openai stores prompts and responses in postgresql database
 
 ## Technologies/requirements
 - fastapi
-- openapi
+- openai api
 - postgresql
 - one /ask endpoint
 - stores prompts, model answers in postgres
